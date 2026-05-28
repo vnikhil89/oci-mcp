@@ -1,0 +1,5 @@
+oci>=2.160.0
+fastmcp
+starlette>=0.47.0
+uvicorn[standard]>=0.34.0
+python-dotenv>=1.0.1
